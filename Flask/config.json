@@ -1,0 +1,31 @@
+{
+
+    "params" :
+    {
+        "local_sever":"True",
+        "local_uri": "mysql://root:@localhost/physicswithnc",
+        "prod_uri":"mysql://root:@localhost/physicswithnc",
+        "fb_url":"https://www.facebook.com/nishant.chhetri.547",
+        "tw_url":"https://twitter.com/nc",
+        "gh_url":"https://github.com/nc",
+        "blog_name":"Quantum With NC",
+        "tag_line": "What is Time? and for that matter, What is Space?",
+        "gmail-user":"codingnishant20@gmail.com",
+        "gmail-password":"Coding@2",
+        "about_text" : "Hi, I am NC and I'm into Physics. My intention is to let people know how cool Physics is and explain the mysterious ways of how it works,I completed my high school on Nepal and this blog is specifically for those who want to learn the weirdness nature of modern physics. \n  Here, we can read and cooperate lots of theories.",
+        "about_text1" : "Enjoy the blog.",
+        "no_of_posts" : 3,
+        "signin_image":"signin.svg",
+        "admin_user":"Nishant@2",
+        "admin_password":"Spanish",
+        "upload_location":"C:\\Users\\acer\\Desktop\\CODE\\Flask\\static"
+
+        
+
+
+    }
+
+
+
+
+}
